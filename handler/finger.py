@@ -1,0 +1,3 @@
+
+class CHandler(object):
+    pass
